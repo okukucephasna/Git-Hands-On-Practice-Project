@@ -116,5 +116,3 @@ As you read Git tutorials or books, don’t just skim examples —
 That habit builds *real understanding*.
 
 ---
-
-Would you li
